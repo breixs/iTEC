@@ -1,5 +1,5 @@
 
-const API_KEY= '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'
+const API_KEY= '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'
 const submitButton = document.querySelector('#submit')
 const outPutElement = document.querySelector('#txtOutput')
 const inputElement = document.querySelector('input')
